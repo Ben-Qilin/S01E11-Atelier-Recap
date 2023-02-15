@@ -6,7 +6,7 @@
 
 _Futur développeur web junior, en cours d'apprentissage_
 
-[Accueil](Page%20d'accueil.md) - [Projet](Projet.md) - [CV](CV.md) - [Contact](Contact.md)
+[Accueil](README.md) - [Projet](Projet.md) - CV  - [Contact](Contact.md)
 
 ## CV
 
